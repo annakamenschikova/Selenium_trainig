@@ -1,0 +1,8 @@
+# Exclude all files in the following directories:
+/**/bin
+/**/obj
+.vs/
+
+
+
+
